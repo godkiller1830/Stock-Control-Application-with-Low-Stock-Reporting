@@ -42,5 +42,5 @@ Key highlights:
 ## 🚀 Installation & Setup  
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/stock-control-app.git
-   cd stock-control-app
+   git clone https://github.com/godkiller1830/Stock-Control-Application-with-Low-Stock-Reporting.git
+   cd Stock-Control-Application-with-Low-Stock-Reporting
